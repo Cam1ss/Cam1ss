@@ -4,5 +4,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jessi_kaa01)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&theme=radical)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/125037138/218315840-75167e2b-16b2-4140-97f9-62baa4e57790.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&theme=radical) ![gif](https://user-images.githubusercontent.com/125037138/218316490-3707a0f6-7111-4a49-bf37-261551580f02.gif)
