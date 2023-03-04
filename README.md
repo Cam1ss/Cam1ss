@@ -1,5 +1,5 @@
-### Hi! Prazer, sou Camila✨
-- 👩‍💻Estudando _Java & Javascript
+### Hi! Prazer, sou a Camila✨
+- 👩‍💻Estudando _Java & Javascript_
 - 🏫IFCE Campus Fortaleza
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jessi_kaa01)
