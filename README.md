@@ -2,7 +2,7 @@
 
 ![ezgif com-crop (1)](https://user-images.githubusercontent.com/125037138/222966692-b3dc8bd9-a408-43c9-a282-1c15ee844306.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=HI!,+My+name+is+Camila+Braúna;I'm+16+years+old;I'm+from+Brazil:%29)](https://git.io/typing-svg)
 
------------------------------------------
+------------------------------------------------
 
 <div align="center">  
   <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:git9codi@gmail.com)
 </div>
 
----------------------------------------------
   <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="right" height="199" alt="coding-time" src="https://user-images.githubusercontent.com/125037138/218316490-3707a0f6-7111-4a49-bf37-261551580f02.gif">
