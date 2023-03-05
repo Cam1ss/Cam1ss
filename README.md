@@ -5,8 +5,8 @@
 -----------------------------------------
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=8B4513&text_color=FFEFD5&bg_color=0d1117" alt="Camila Braúna github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cam1ss&layout=compact&hide_border=true&title_color=B22222&text_color=FFEFD5&bg_color=0d1117" 
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cam1ss&layout=compact&langs_count=16&theme=kacho_ga"/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jessi_kaa01)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:git9codi@gmail.com)
@@ -19,5 +19,6 @@
     <h1 align="center">Linguagens Aprendidas👩🏽‍💻</h1>
     <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="50" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    
      
   
