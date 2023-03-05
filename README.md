@@ -16,11 +16,11 @@
 </div>
   
   
-## 👩🏽‍💻Linguagens Aprendidas
   <div style="display: inline_block"><br>
+    <h1 align="left"> 👩🏽‍💻Melhores Tecnologias <3</h1>
     <img align="left" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="left" height="40" width="50" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="left" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
+     </div>
      
   
