@@ -1,7 +1,7 @@
 
 ![ezgif com-crop](https://user-images.githubusercontent.com/125037138/222974406-b63066df-fd3a-405e-b402-78c46254fbab.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDAB9&size=35&center=true&vCenter=true&width=1000&lines=I'm+16+years+old;I'm+from+Brazil:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDAB9&size=35&center=true&vCenter=true&width=1000&lines=I'm+17+years+old;I'm+from+Brazil:%29)](https://git.io/typing-svg)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats e Contatos </b>
