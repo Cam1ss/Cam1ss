@@ -1,11 +1,12 @@
 ### <h1 align="center"> •*¨*•.¸¸☆*･ﾟ･:*✿ Welcome to my Profile ✿*:･ﾟ･*☆¸¸.•*¨*• </h1>
+
 <!-- About Me -->
 <img width="100%" src="https://github.com/Cam1ss/Cam1ss/assets/125037138/868db29a-c396-4aff-ac98-79b6873bcc42">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=30&pause=1000&color=DE6966&random=false&width=220&height=80&lines=Hi%2C+I'm+Camiss!)](https://git.io/typing-svg)
 
-
-
+### _**━⊱ About me:**_
+ - 📍 I am 17 years old and I am a student at the Federal Institute of the State of Ceará (IFCE)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats e Contatos </b>
 <br>
