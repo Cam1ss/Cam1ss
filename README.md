@@ -24,7 +24,7 @@
 
 <div align="center">  
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&count_private=true&hide_border=true&title_color=A52A2A&icon_color=B0C4DE&text_color=FFDAB9&bg_color=0d1117" alt="Camila Braúna github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cam1ss&show_icons=true&count_private=true&hide_border=true&title_color=A52A2A&icon_color=B0C4DE&text_color=FFDAB9&bg_color=0d1117" alt="Camila Braúna github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cam1ss&layout=compact&hide_border=true&title_color=A52A2A&text_color=B0C4DE&bg_color=0d1117" />
 
 
