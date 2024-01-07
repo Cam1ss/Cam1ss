@@ -14,7 +14,8 @@
  - 🍰 I am 17 years old and I am a student at the Federal Institute of the State of Ceará (IFCE)
  - 🍰 I like to develop programs, create designers, design and make candies
  - 🍰 I'm learning Web development and Mobie Apps
- -  <img align="center" height="25" width="25" src= "https://github.com/Cam1ss/Cam1ss/assets/125037138/e08c58f5-41c0-480b-9176-53e96a8a134e" /> camila.brauna08@aluno.ifce.edu.br <img align="center" height="25" width="25" src= "https://github.com/Cam1ss/Cam1ss/assets/125037138/4c47e63d-ffd4-45cf-9701-cbef07f16d88" /> jessi_kaa01
+ -  <img align="center" height="25" width="25" src= "https://github.com/Cam1ss/Cam1ss/assets/125037138/e08c58f5-41c0-480b-9176-53e96a8a134e" /> My Email: camila.brauna08@aluno.ifce.edu.br
+ -  <img align="center" height="25" width="25" src= "https://github.com/Cam1ss/Cam1ss/assets/125037138/4c47e63d-ffd4-45cf-9701-cbef07f16d88" /> My Instagram: jessi_kaa01
 
 
 <!-- GitHub Status -->
