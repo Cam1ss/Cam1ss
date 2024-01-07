@@ -31,12 +31,7 @@
 
   <!-- Learning Languages -->
   ## _**┗ • 💡 Languages and Tools • ┛**_
-
-  <div style="display: inline_block"><br>
- <link rel="stylesheet" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />
- <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode,)](https://skillicons.dev)
  
  
 
