@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=30&pause=1000&color=DE6966&random=false&width=220&height=80&lines=Hi%2C+I'm+Camiss!)](https://git.io/typing-svg)
 
-<img align="right" height="210" alt="coding-time" src="https://user-images.githubusercontent.com/125037138/218316490-3707a0f6-7111-4a49-bf37-261551580f02.gif">
+<img align="right" height="180" alt="coding-time" src="https://user-images.githubusercontent.com/125037138/218316490-3707a0f6-7111-4a49-bf37-261551580f02.gif">
 </div>
 
 ## _**━⊱ About me:**_
