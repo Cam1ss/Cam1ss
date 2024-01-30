@@ -20,7 +20,7 @@
 <br>
 
 <!-- GitHub Status -->
-## _**┗ • 📊 GitHub Status • ┛**_
+### _**┗ • 📊 GitHub Status • ┛**_
 
 <div align="center">  
  <div align="center">  
