@@ -10,7 +10,7 @@
 <img align="right" height="180" alt="coding-time" src="https://user-images.githubusercontent.com/125037138/218316490-3707a0f6-7111-4a49-bf37-261551580f02.gif">
 </div>
 
-## _**┗ • ✿ About me: ✿ • ┛**_
+### _**┗ • ✿ About me: ✿ • ┛**_
  ⇢ 🍰 I am 17 years old and I am a student at the Federal Institute of the State of Ceará (IFCE) <br>
  ⇢ 🍰 I like to develop programs, create designers, design and make candies <br>
  ⇢ 🍰 I'm learning Web development and Mobie Apps 
@@ -30,7 +30,7 @@
  </div>
 
   <!-- Learning Languages -->
-  ## _**┗ • 💡 Languages and Tools • ┛**_
+  ### _**┗ • 💡 Languages and Tools • ┛**_
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode,)](https://skillicons.dev)
  
  
