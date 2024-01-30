@@ -1,5 +1,5 @@
 <!-- Apresentacion -->
-### <h1 align="center"> •*¨*•.¸¸☆*･ﾟ･:*✿ Welcome to my Profile ✿*:･ﾟ･*☆¸¸.•*¨*• </h1>
+ <h1 align="center"> •*¨*•.¸¸☆*･ﾟ･:*✿ Welcome to my Profile ✿*:･ﾟ･*☆¸¸.•*¨*• </h1>
 
 
 <!-- About Me -->
@@ -20,7 +20,7 @@
 <br>
 
 <!-- GitHub Status -->
-### _**┗ • 📊 GitHub Status • ┛**_
+### _**┗ • 📊 GitHub Status**_
 
 <div align="center">  
  <div align="center">  
@@ -30,7 +30,7 @@
  </div>
 
   <!-- Learning Languages -->
-  ### _**┗ • 💡 Languages and Tools • ┛**_
+  ### _**┗ • 💡 Languages and Tools**_
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode,)](https://skillicons.dev)
  
  
