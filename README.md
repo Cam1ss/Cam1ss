@@ -1,5 +1,5 @@
 <!-- Apresentacion -->
- <h1 align="center"> •*¨*•.¸¸☆*･ﾟ･:*✿ Welcome to my Profile ✿*:･ﾟ･*☆¸¸.•*¨*• </h1>
+ <h1 align="center"> •*･ﾟ･:*✿ Welcome to my Profile ✿*:･ﾟ･*• </h1>
 
 
 <!-- About Me -->
