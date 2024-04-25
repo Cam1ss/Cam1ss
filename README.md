@@ -31,7 +31,11 @@
 
   <!-- Learning Languages -->
   ### _**┗ • 💡 Languages and Tools**_
+<div align="center"> 
+ 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode,)](https://skillicons.dev)
+
+</div>
  
  
 
