@@ -11,7 +11,7 @@
 </div>
 
 ### _**┗ • ✿ About me: ✿ • ┛**_
- ⇢ 🍰 I am 17 years old and I am a student at the Federal Institute of the State of Ceará (IFCE) <br>
+ ⇢ 🍰 I am 18 years old and I am a student at the Federal Institute of the State of Ceará (IFCE) <br>
  ⇢ 🍰 I like to develop programs, create designers, design and make candies <br>
  ⇢ 🍰 I'm learning Web development and Mobie Apps 
  - <img align="center" height="25" width="25" src= "https://github.com/Cam1ss/Cam1ss/assets/125037138/e08c58f5-41c0-480b-9176-53e96a8a134e" /> My Email: camila.brauna08@aluno.ifce.edu.br
@@ -33,7 +33,7 @@
   ### _**┗ • 💡 Languages and Tools**_
 <div align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,replit,figma,vscode,)](https://skillicons.dev)
 
 </div>
  
