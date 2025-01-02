@@ -33,7 +33,7 @@
   ### _**┗ • 💡 Languages and Tools**_
 <div align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,replit,figma,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,replit,figma,vscode,mongodb,react)](https://skillicons.dev)
 
 </div>
  
